@@ -14,7 +14,7 @@ lapply(libraries, library, quietly = TRUE, character.only = TRUE)
 data(OJ)
 OJ = data.frame(OJ)
 
-# Build a Tree Model with all Regressors to fit Purchase (can either by MM or CH)
+# Build a Tree Model with all Regressors to fit Purchase (can either be MM or CH)
 tree.oj = tree(Purchase ~ ., OJ)
 # Summary of the Classification tree
 summary(tree.oj)
