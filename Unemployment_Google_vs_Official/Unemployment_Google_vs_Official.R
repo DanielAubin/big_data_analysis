@@ -6,7 +6,7 @@
 # ------------------------------------------------------  
 # Description:  Creates two stacked bar-plots with legend sorted by amount and plots them all together.
 # ------------------------------------------------------  
-# Keywords:  
+# Keywords:  data visualization, plot, barchart, time-series, panel analysis
 # ------------------------------------------------------  
 # See also:  
 # ------------------------------------------------------  
@@ -16,7 +16,7 @@
 # ------------------------------------------------------  
 # Datafile:  GoogleTrends Dataset (search term: "Arbeitsamt"), Unemployment-rate from Statistisches Bundesamt
 # ------------------------------------------------------  
-# Input:  data visualization, plot, barchart, time-series, panel analysis
+# Input:  
 # ------------------------------------------------------  
 # Output:  
 # ------------------------------------------------------  
